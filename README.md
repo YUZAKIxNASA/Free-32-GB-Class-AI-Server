@@ -1,4 +1,4 @@
-# Free 32 GB-Class AI Server on Kaggle — Ollama + Qwen3.8 27B + MTP
+# Free 32 GB-Class AI Server on Kaggle — Ollama + Qwen3.8 27B + MTP | @ঔৣ፝ N4!
 
 This notebook turns a free **Kaggle GPU session** into a temporary Ollama server for running a large GGUF model across **2× NVIDIA Tesla T4 GPUs**.
 
